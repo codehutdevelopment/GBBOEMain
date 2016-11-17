@@ -322,15 +322,15 @@
         {
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:GBBOE"
-        "ProductCode" = "8:{18F3D8AC-A6EC-45E7-B90B-4EF689C6FC6C}"
-        "PackageCode" = "8:{C45BF2F4-0FBC-486F-8069-94FD42641114}"
-        "UpgradeCode" = "8:{BEE56CF7-86B2-4038-80EF-6D2219081E91}"
+        "ProductCode" = "8:{E50336A7-BCB0-4B76-88FF-4D4CBF3586B5}"
+        "PackageCode" = "8:{8DCE884D-7F23-45E0-9EFB-876887E9EDEB}"
+        "UpgradeCode" = "8:{EFED3953-C266-47C9-A1BD-18D207CE1ED5}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:TRUE"
         "DetectNewerInstalledVersion" = "11:TRUE"
-        "InstallAllUsers" = "11:FALSE"
-        "ProductVersion" = "8:1.0.0"
+        "InstallAllUsers" = "11:TRUE"
+        "ProductVersion" = "8:1.0.3"
         "Manufacturer" = "8:CodeHut Development"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:"
@@ -445,7 +445,7 @@
         {
             "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_17AB8CEC415246DC851EE3D23A3B0CB0"
             {
-            "Name" = "8:GBBOE (Active)"
+            "Name" = "8:Great Big Bag of Everything"
             "Arguments" = "8:"
             "Description" = "8:"
             "ShowCmd" = "3:1"
@@ -459,7 +459,7 @@
             }
             "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_FD0487A1F6DE467193B874D7802C33FC"
             {
-            "Name" = "8:GBBOE (Active)"
+            "Name" = "8:Great Big Bag of Everything"
             "Arguments" = "8:"
             "Description" = "8:"
             "ShowCmd" = "3:1"
