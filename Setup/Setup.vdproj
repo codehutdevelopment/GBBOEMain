@@ -27,6 +27,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_13948D9ADBD64F14BA0E5BF0E22B07D1"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_7FE2081070BCDE09B0291EB062392057"
         "OwnerKey" = "8:_AA0EE36397714D81AA3700E69B0A5998"
         "MsmSig" = "8:_UNDEFINED"
@@ -193,6 +199,26 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_13948D9ADBD64F14BA0E5BF0E22B07D1"
+            {
+            "SourcePath" = "8:..\\ARLRDBD.TTF"
+            "TargetName" = "8:ARLRDBD.TTF"
+            "Tag" = "8:"
+            "Folder" = "8:_E478F660E08C4A6293DF43DCDB00A087"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:5"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_7FE2081070BCDE09B0291EB062392057"
             {
             "AssemblyRegister" = "3:1"
@@ -306,6 +332,17 @@
                     }
                 }
             }
+            "{1525181F-901A-416C-8A58-119130FE478E}:_E478F660E08C4A6293DF43DCDB00A087"
+            {
+            "Name" = "8:#1911"
+            "AlwaysCreate" = "11:FALSE"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Property" = "8:FontsFolder"
+                "Folders"
+                {
+                }
+            }
         }
         "LaunchCondition"
         {
@@ -330,7 +367,7 @@
         "RemovePreviousVersions" = "11:TRUE"
         "DetectNewerInstalledVersion" = "11:TRUE"
         "InstallAllUsers" = "11:TRUE"
-        "ProductVersion" = "8:2.0.5"
+        "ProductVersion" = "8:2.13.0"
         "Manufacturer" = "8:CodeHut Development"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:"
@@ -445,7 +482,7 @@
         {
             "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_17AB8CEC415246DC851EE3D23A3B0CB0"
             {
-            "Name" = "8:Great Big Bag of Everything"
+            "Name" = "8:Great Big Book of Everything"
             "Arguments" = "8:"
             "Description" = "8:"
             "ShowCmd" = "3:1"
@@ -459,7 +496,7 @@
             }
             "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_FD0487A1F6DE467193B874D7802C33FC"
             {
-            "Name" = "8:Great Big Bag of Everything"
+            "Name" = "8:Great Big Book of Everything"
             "Arguments" = "8:"
             "Description" = "8:"
             "ShowCmd" = "3:1"
