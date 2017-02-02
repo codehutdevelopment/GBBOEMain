@@ -367,7 +367,7 @@
         "RemovePreviousVersions" = "11:TRUE"
         "DetectNewerInstalledVersion" = "11:TRUE"
         "InstallAllUsers" = "11:TRUE"
-        "ProductVersion" = "8:2.17.0"
+        "ProductVersion" = "8:2.17.1"
         "Manufacturer" = "8:CodeHut Development"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:"
