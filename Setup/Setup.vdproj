@@ -33,6 +33,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_239E94530A3CB6D0B265303A795D3C85"
+        "OwnerKey" = "8:_AA0EE36397714D81AA3700E69B0A5998"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_7FE2081070BCDE09B0291EB062392057"
         "OwnerKey" = "8:_AA0EE36397714D81AA3700E69B0A5998"
         "MsmSig" = "8:_UNDEFINED"
@@ -65,6 +71,12 @@
         {
         "MsmKey" = "8:_UNDEFINED"
         "OwnerKey" = "8:_07E6ACF3070AE2C462D3F4AA115D8270"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_239E94530A3CB6D0B265303A795D3C85"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -219,6 +231,37 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_239E94530A3CB6D0B265303A795D3C85"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:WindowsFormsCalendar, Version=1.1.4610.23063, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_239E94530A3CB6D0B265303A795D3C85"
+                    {
+                    "Name" = "8:WindowsFormsCalendar.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:WindowsFormsCalendar.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_A955CA5C038741D682D9E147601FDD40"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_7FE2081070BCDE09B0291EB062392057"
             {
             "AssemblyRegister" = "3:1"
@@ -367,7 +410,7 @@
         "RemovePreviousVersions" = "11:TRUE"
         "DetectNewerInstalledVersion" = "11:TRUE"
         "InstallAllUsers" = "11:TRUE"
-        "ProductVersion" = "8:2.18.1"
+        "ProductVersion" = "8:2.19.3"
         "Manufacturer" = "8:CodeHut Development"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:"
